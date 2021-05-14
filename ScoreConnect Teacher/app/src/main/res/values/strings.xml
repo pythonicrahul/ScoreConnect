@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Score Connect</string>
+    <string name="app_logo_desc">Score Connect Logo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="teacher_name">Teacher Name</string>
+    <string name="virtual_notice_board">Virtual Notice Board</string>
+    <string name="view_students">View Students</string>
+    <string name="enter_marks">Enter Marks</string>
+    <string name="more">MORE</string>
+    <string name="clear">Clear</string>
+    <string name="add_notice">Add Notice</string>
+    <string name="add_a_notice">Add A Notice</string>
+    <string name="enter_your_notice_here">Enter your Notice Here</string>
+    <string name="update">Update</string>
+    <string name="standard_x_section_a">Standard X Section A</string>
+    <string name="textview">TextView</string>
+    <string name="roll_no_name">Roll No Name</string>
+    <string name="first_unit_test">First Unit Test</string>
+    <string name="second_unit_test">Second Unit Test</string>
+    <string name="first_term_exam">FIRST TERM EXAM</string>
+    <string name="third_unit_test">THIRD Unit Test</string>
+    <string name="fourth_unit_test">Fourth Unit Test</string>
+    <string name="second_term_exam">SECOND TERM EXAM</string>
+    <string name="show_tasks">Show Tasks</string>
+    <string name="tasks">Tasks</string>
+    <string name="your_subjects">Your Subjects</string>
+    <string name="roll_no">Roll No</string>
+    <string name="name_of_student">Name Of Student</string>
+    <string name="text">text</string>
+    <string name="set_marks">Set Marks</string>
+    <string name="verify_and_submit">Verify And Submit</string>
+
+
+</resources>

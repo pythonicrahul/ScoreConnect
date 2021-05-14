@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="350dp"
+    android:layout_gravity="center"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp">
+
+    <Button
+        android:id="@+id/unit1btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/popup_btn_background"
+        android:onClick="unit1func"
+        android:text="@string/first_unit_test" />
+
+
+    <Button
+        android:id="@+id/unit2btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/unit1btn"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/popup_btn_background"
+        android:onClick="unit2func"
+        android:text="@string/second_unit_test" />
+
+    <Button
+        android:id="@+id/term1btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/unit2btn"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/popup_btn_background"
+        android:onClick="term1func"
+        android:text="@string/first_term_exam" />
+
+    <Button
+        android:id="@+id/unit3btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/term1btn"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/popup_btn_background"
+        android:onClick="unit3func"
+        android:text="@string/third_unit_test" />
+
+    <Button
+        android:id="@+id/unit4btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/unit3btn"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/popup_btn_background"
+        android:onClick="unit4func"
+        android:text="@string/fourth_unit_test" />
+
+    <Button
+        android:id="@+id/term2btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/unit4btn"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/popup_btn_background"
+        android:onClick="term2func"
+        android:text="@string/second_term_exam" />
+</RelativeLayout>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Score Connect Parents</string>
+    <string name="name_of_the_school">Name Of The School</string>
+    <string name="powered_by_school_connect">Powered By Score Connect</string>
+    <string name="login">Login</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="view_noticeboard">View NoticeBoard</string>
+    <string name="report_card">Report Card</string>
+    <string name="more">More</string>
+    <string name="virtual_notice_board">Virtual Notice Board</string>
+    <string name="marks">Marks</string>
+    <string name="subject">Subject</string>
+    <string name="first_unit_test">First Unit Test</string>
+    <string name="second_unit_test">Second Unit Test</string>
+    <string name="first_term_exam">FIRST TERM EXAM</string>
+    <string name="third_unit_test">THIRD Unit Test</string>
+    <string name="fourth_unit_test">Fourth Unit Test</string>
+    <string name="second_term_exam">SECOND TERM EXAM</string>
+    <string name="georaphy">georaphy</string>
+    <string name="_100">100</string>
+</resources>

@@ -1,0 +1,24 @@
+1st to 4th -   English,Hindi,Marathi,Maths,Social Science,E.V.S
+5th to 7th -   English,Hindi,Marathi,Maths,History,Geography, Science
+8th to 10th - English,Hindi,Marathi,Maths,History,Geography, Science
+add teacher - password 
+
+1st -  english,hindi,maths,evs,Computer,gk
+2nd - english,hindi,maths,evs,Computer,gk
+3rd - english,hindi,maths,evs,Computer,gk
+4th - english,hindi,maths,Science,Computer,gk,Social Studies
+5th - english,hindi,maths,Science,Computer,gk,Social Studies
+6th - english,hindi,maths,Science,Computer,gk,Social Studies,Marathi Or Sanskrit
+7th - english,hindi,maths,Science,Computer,gk,Social Studies,Marathi Or Sanskrit
+8th - english,hindi,maths,Science,Computer,gk,Social Studies,Marathi Or Sanskrit
+9th - english,hindi,maths,Science,Computer,gk,Social Studies,Marathi Or Sanskrit
+10th - english,hindi,maths,Science,Computer,gk,Social Studies,Marathi Or Sanskrit
+
+Miscellenous - Add Subjects,Manage Standard Sections,
+create viewteach delete script,
+clerk can also put notice,
+add section
+assing task to teacher
+mysql se data fetch krna hai
+
+Teacher will select the Exam - > Teacher will select the class to which they are teaching any subject - > List of all Student of That class will appear with there roll no -> Select any student ->PopUp -> Enter marks -> Database will be updated
